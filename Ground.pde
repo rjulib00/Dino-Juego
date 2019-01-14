@@ -1,4 +1,5 @@
-//mostrar cuadraditos en el suelo
+//mostrar cuadraditos en el suelo, es completamente innecesaria, solo esta hecha por dotar de "mas variedad" al suelo
+//si se quiere quitar hay que quitar su llamada en main.pde
 
 class Ground{
   float posX = width;
