@@ -1,0 +1,6 @@
+Utilidades para el usuario
+	con las teclas “+” y “-” y aumentamos la velocidad de actualizacion, a menor tasa de actualizacion, se deja mas espacio libre para que el procesador trabaje con los calculos de la red neuronal
+
+size(x, y): (DinoGame.pde, linea 41)
+	Tamaño de la ventana (por defecto 1500x800), en caso de no querer ventana, cambiar size(x, y) por fullscreen()
+
